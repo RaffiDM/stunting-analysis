@@ -61,4 +61,4 @@ pip install -r requirements.txt
 4. Poverty rates appear to correlate with stunting prevalence
 
 ## Author
-Raffi Dzaky Mahendra - 22.K3.0003
+Raffi Dzaky Mahendra
